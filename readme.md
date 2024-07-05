@@ -57,6 +57,8 @@ docker run -e MYSQL_USER=petclinic -e MYSQL_PASSWORD=petclinic -e MYSQL_ROOT_PAS
 
 
 
+
+
 or
 
 ```bash
